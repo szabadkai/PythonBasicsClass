@@ -42,3 +42,4 @@
 * Flow control https://www.youtube.com/watch?v=zw2Kf13aNcI
 * Functions https://www.youtube.com/watch?v=NSbOtYzIQI0
 * Datastructures https://www.youtube.com/watch?v=W8KRzm-HUcc
+* Dictionaries https://www.youtube.com/watch?v=daefaLgNkw0
