@@ -15,7 +15,7 @@
 # It's ok if you do not complete all the functions, and there
 # are some additional functions to try in string2.py.
 
-from excercises.test_helper import test
+from test_helper import test
 
 # A. donuts
 # Given an int count of a number of donuts, return a string
@@ -25,8 +25,7 @@ from excercises.test_helper import test
 # So donuts(5) returns 'Number of donuts: 5'
 # and donuts(23) returns 'Number of donuts: many'
 def donuts(count):
-    # +++your code here+++
-    return
+    return 'Number of donuts: %s' % (count if count <10 else 'many')
 
 
 # B. both_ends
@@ -35,8 +34,7 @@ def donuts(count):
 # so 'spring' yields 'spng'. However, if the string length
 # is less than 2, return instead the empty string.
 def both_ends(s):
-    # +++your code here+++
-    return
+    return s[:2]+s[-2:] if len(s) > 2 else ''
 
 
 # C. fix_start
@@ -49,8 +47,7 @@ def both_ends(s):
 # Hint: s.replace(stra, strb) returns a version of string s
 # where all instances of stra have been replaced by strb.
 def fix_start(s):
-    # +++your code here+++
-    return
+    return ''.join([s[i] if s[0] != s[i] or i<1 else '*' for i in range(len(s))])
 
 
 # D. MixUp
@@ -61,8 +58,7 @@ def fix_start(s):
 #   'dog', 'dinner' -> 'dig donner'
 # Assume a and b are length 2 or more.
 def mix_up(a, b):
-    # +++your code here+++
-    return
+    return "%s %s" % (b[:2]+a[2:],a[:2]+b[2:])
 
 
 # Provided main() calls the above functions with interesting inputs,
