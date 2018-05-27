@@ -33,7 +33,9 @@
 * Getting Your firs api ready with Flask
 * Creating state of the art CLI tools with Click and PyInvoke
 
+
 ### First Set of Videos to Watch: 
+## Take1
 * Install iOS/Unix https://www.youtube.com/watch?v=YYXdXT2l-Gg
 * Install Windows10 https://www.youtube.com/watch?v=dX2-V2BocqQ
 * Numbers https://www.youtube.com/watch?v=8s8Vj7z462M
@@ -43,3 +45,17 @@
 * Functions https://www.youtube.com/watch?v=NSbOtYzIQI0
 * Datastructures https://www.youtube.com/watch?v=W8KRzm-HUcc
 * Dictionaries https://www.youtube.com/watch?v=daefaLgNkw0
+## Take2
+* Tuples https://www.youtube.com/watch?v=NI26dqhs2Rk
+* Sets https://www.youtube.com/watch?v=sBvaPopWOmQ
+* Comprehensions https://www.youtube.com/watch?v=3dt4OGnU5sM
+* Dealing with files https://www.youtube.com/watch?v=Uh2ebFW8OYM
+* Classes and Objects https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+* Important Magic methods https://www.youtube.com/watch?v=3ohzBxoFHAY
+## Take3
+* Requests https://www.youtube.com/watch?v=umEoh0jfnl0
+* flask https://www.youtube.com/watch?v=MwZwr5Tvyxo
+* click https://www.youtube.com/watch?v=kNke39OZ2k0
+
+
+
