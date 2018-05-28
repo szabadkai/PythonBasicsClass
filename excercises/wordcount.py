@@ -38,26 +38,54 @@ print_words() and print_top().
 """
 
 import sys
+import operator
+import string
+import pprint
+import itertools
 
 
 # +++your code here+++
 # Define print_words(filename) and print_top(filename) functions.
 # You could write a helper utility function that reads a file
 # and builds and returns a word/count dict for it.
-# Then print_words() and print_top() can just call the utility function.
+# Then print_wods() and print_top() can just call the utility function.
 
 ###
 
 # This basic command line argument parsing code is provided and
 # calls the print_words() and print_top() functions which you must define.
+def count_words(f):
+    rdict = {}
+    for line in f:
+        for i in line.strip().split():
+            i = i.strip(string.punctuation).lower()
+            if i in rdict:
+                rdict[i] = rdict[i] + 1
+            else:
+                rdict[i] = 1
+
+    return rdict
+
 
 def print_words(filename):
-    # your code here
-    pass
+    f = open(filename, 'rt')
+    counted_words = count_words(f)
+    f.close()
+
+    pprint.pprint(sorted(counted_words.items(), key=operator.itemgetter(1),
+                  reverse=True))
+
 
 def print_top(filename):
-    # your code here
-    pass
+    f = open(filename, 'rt')
+    counted_words = count_words(f)
+    f.close()
+
+    top_words = sorted(counted_words.items(), key=operator.itemgetter(1),
+                       reverse=True)
+
+    for key, value in itertools.islice(top_words, 20):
+        print(f'{key}: {value}')
 
 
 def main():

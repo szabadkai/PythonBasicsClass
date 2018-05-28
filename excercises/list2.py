@@ -7,7 +7,8 @@
 # http://code.google.com/edu/languages/google-python-class/
 
 # Additional basic list exercises
-from excercises.test_helper import test
+# from excercises.test_helper import test
+from test_helper import test
 
 # D. Given a list of numbers, return a list where
 # all adjacent == elements have been reduced to a single element,
@@ -16,8 +17,13 @@ from excercises.test_helper import test
 
 
 def remove_adjacent(nums):
-    # +++your code here+++
-    return
+    rlist = []
+
+    for idx, val in enumerate(nums):
+        if idx == 0 or nums[idx] != nums[idx-1]:
+            rlist.append(val)
+
+    return rlist
 
 
 # E. Given two lists sorted in increasing order, create and return a merged
@@ -25,11 +31,13 @@ def remove_adjacent(nums):
 # Ideally, the solution should work in "linear" time, making a single
 # pass of both lists.
 def linear_merge(list1, list2):
-    # +++your code here+++
-    return
+    rlist = list1.copy()
+    rlist.extend(list2)
+
+    return sorted(rlist)
 
 
-# Note: the solution above is kind of cute, but unforunately list.pop(0)
+# Note: the solution above is kidx of cute, but unforunately list.pop(0)
 # is not constant time with the standard python list implementation, so
 # the above is not strictly linear time.
 # An alternate approach uses pop(-1) to remove the endmost elements

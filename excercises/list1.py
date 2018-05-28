@@ -20,12 +20,18 @@
 # strings where the string length is 2 or more and the first
 # and last chars of the string are the same.
 # Note: python does not have a ++ operator, but += works.
-from excercises.test_helper import test
+# from excercises.test_helper import test
+from test_helper import test
 
 
 def match_ends(words):
-    # +++your code here+++
-    return
+    count = 0
+
+    for x in words:
+        if len(x) >= 2 and x.endswith(x[0]):
+            count += 1
+
+    return count
 
 
 # B. front_x
@@ -36,8 +42,16 @@ def match_ends(words):
 # Hint: this can be done by making 2 lists and sorting each of them
 # before combining them.
 def front_x(words):
-    # +++your code here+++
-    return
+    listx = []
+    listn = []
+
+    for i in words:
+        if i.startswith("x"):
+            listx.append(i)
+        else:
+            listn.append(i)
+
+    return sorted(listx) + sorted(listn)
 
 
 # C. sort_last
@@ -47,8 +61,10 @@ def front_x(words):
 # [(2, 2), (1, 3), (3, 4, 5), (1, 7)]
 # Hint: use a custom key= function to extract the last element form each tuple.
 def sort_last(tuples):
-    # +++your code here+++
-    return
+    def get_key(item):
+        return item[len(item)-1]
+
+    return sorted(tuples, key = get_key)
 
 
 # Calls the above functions with interesting inputs.
