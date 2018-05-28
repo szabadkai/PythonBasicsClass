@@ -1,0 +1,388 @@
+name,region
+Abafar,Outer Rim Territories
+Abednedo,Colonies
+Abhean,Mid Rim
+Adumar,Wild Space
+Aeten,Wild Space
+Agamar,Outer Rim Territories
+Akiva,Outer Rim Territories
+Akuria,Outer Rim Territories
+Alderaan,Core Worlds
+Aleen,Mid Rim
+Alpinn,Outer Rim Territories
+Allyuen,Outer Rim Territories
+Ambria,Inner Rim
+Amethia Prime,Inner Rim
+Anantapar,Outer Rim Territories
+Anaxes,Core Worlds
+Andelm IV,Outer Rim Territories
+Ando,Mid Rim
+Ankus,Mid Rim
+Anoat,Outer Rim Territories
+Ansion,Mid Rim
+Antar,Inner Rim
+Anthan Prime,Outer Rim Territories
+Anzat,Mid Rim
+Aquaris,Expansion Region
+Argazda,Outer Rim Territories
+Arkania,Colonies
+Arkanis,Outer Rim Territories
+Asmeru,Mid Rim
+Atzerri,Inner Rim
+Balamak,Mid Rim
+Balmorra,Colonies
+Balosar,Core Worlds
+Bamayar,Mid Rim
+Bardotta,Colonies
+Bastatha,Inner Rim
+Basteel,Outer Rim Territories
+Bastion,Outer Rim Territories
+Bavva,Outer Rim Territories
+Belladoon,Outer Rim Territories
+Belderone,Outer Rim Territories
+Belkadan,Outer Rim Territories
+Bellnar,Colonies
+Belsavis,Mid Rim
+Bendeluum,Outer Rim Territories
+Berchest,Inner Rim
+Bescane,Outer Rim Territories
+Bespin,Outer Rim Territories
+Bestine,Inner Rim
+Bilbringi,Inner Rim
+Bimmiel,Outer Rim Territories
+Bimmisaari,Mid Rim
+Birgis,Outer Rim Territories
+Birren,Inner Rim
+Bogden,Inner Rim
+Bomis Koori,Mid Rim
+Borgo Prime,Outer Rim Territories
+Borleias,Colonies
+Borosk,Outer Rim Territories
+Botajef,Outer Rim Territories
+Bothawui,Mid Rim
+Boz Pity,Mid Rim
+Brentaal IV,Core Worlds
+Burnin Konn,Outer Rim Territories
+Byblos,Colonies
+Byss (Outer Rim Territories),Outer Rim Territories
+Calcoraan,Inner Rim
+Carida,Colonies
+Carlac,Outer Rim Territories
+Castell,Colonies
+Cato Neimoidia,Colonies
+Centares,Mid Rim
+Cerea,Mid Rim
+Chad,Outer Rim Territories
+Chalacta,Mid Rim
+Chalcedon,Mid Rim
+Champala,Inner Rim
+Chandrila,Core Worlds
+Charros,Mid Rim
+Christophsis,Outer Rim Territories
+Ciutric,Outer Rim Territories
+Codia,Mid Rim
+Colla IV,Inner Rim
+Commenor,Colonies
+Comra,Wild Space
+Cona,Inner Rim
+Corellia,Core Worlds
+Corsin,Expansion Region
+Corulag,Core Worlds
+Coruscant,Core Worlds
+Council,Outer Rim Territories
+Coyerti,Mid Rim
+Crucival,Outer Rim Territories
+Crul,Mid Rim
+Csilla,Unknown Regions
+Cyphar,Mid Rim
+Cyrkon,Outer Rim Territories
+D'Qar,Outer Rim Territories
+Daalang,Mid Rim
+Dagobah,Outer Rim Territories
+Dandoran,Outer Rim Territories
+Dantooine,Outer Rim Territories
+Darlyn Boda,Outer Rim Territories
+Dasoor,Mid Rim
+Dathomir,Outer Rim Territories
+Daxam IV,Outer Rim Territories
+Delphon,Outer Rim Territories
+Denon,Inner Rim
+Dermos,Outer Rim Territories
+Devaron,Outer Rim Territories
+Deysum,Mid Rim
+Dorin,Expansion Region
+Dolla,Mid Rim
+Dowut,Core Worlds
+Drearia,Inner Rim
+Dressel,Mid Rim
+Druckenwell,Mid Rim
+Dubrillion,Outer Rim Territories
+Durkteel,Mid Rim
+Duro,Core Worlds
+Edusa,Outer Rim Territories
+Eiattu,Mid Rim
+Enarc,Mid Rim
+Endor,Outer Rim Territories
+Entralla,Outer Rim Territories
+Epiphany,Outer Rim Territories
+Er'Kit,Outer Rim Territories
+Eriadu,Outer Rim Territories
+Ertegas,Outer Rim Territories
+Esfandia,Wild Space
+Eufornis Major,Core Worlds
+Eufornis Minor,Outer Rim Territories
+Exodeen,Colonies
+Falleen,Mid Rim
+Farana,Outer Rim Territories
+Farstine,Mid Rim
+Felucia,Outer Rim Territories
+Filordis,Inner Rim
+Florrum,Outer Rim Territories
+Fondor,Colonies
+Formos,Outer Rim Territories
+Fornax,Mid Rim
+Galaan,Outer Rim Territories
+Gamorr,Outer Rim Territories
+Gan Moradir,Mid Rim
+Gand,Outer Rim Territories
+Ganthel,Core Worlds
+Garel,Outer Rim Territories
+Garos,Mid Rim
+Genassa,Mid Rim
+Generis,Outer Rim Territories
+Gentes,Outer Rim Territories
+Geonosis,Outer Rim Territories
+Gerrenthum,Outer Rim Territories
+Ghorman,Colonies
+Giju,Colonies
+Gilvaanen,Inner Rim
+Glee Anselm,Mid Rim
+Gorse,Inner Rim
+Graf-World,Wild Space
+Gravlex Med,Outer Rim Territories
+Gromas,Mid Rim
+Gutretee,Outer Rim Territories
+G'wenee,Outer Rim Territories
+Haidoral Prime,Mid Rim
+Halcyon,Colonies
+Halmad,Outer Rim Territories
+Haruun Kal,Mid Rim
+Helska,Outer Rim Territories
+Herdessa,Mid Rim
+Hinari,Outer Rim Territories
+Horuz,Outer Rim Territories
+Hosnian Prime,Core Worlds
+Hosra,Outer Rim Territories
+Hoth,Outer Rim Territories
+Hok,Colonies
+Ibaar,Outer Rim Territories
+Iktotchon ,Expansion Region
+Ilum,Unknown Regions
+Indoumodo,Wild Space
+Indupar,Mid Rim
+Ione,Outer Rim Territories
+Iridonia,Mid Rim
+Isde Naha,Western Reaches
+Iseno,Inner Rim
+Ison,Outer Rim Territories
+Iskalon,Mid Rim
+Ithor,Mid Rim
+Jaemus,Outer Rim Territories
+Jakku,Western Reaches
+Jelucan,Outer Rim Territories
+Jhas,Outer Rim Territories
+Jilrua,Outer Rim Territories
+Jiroch,Mid Rim
+Kaal,Mid Rim
+Kaddak,Outer Rim Territories
+Kalarba,Mid Rim
+Kalee,Wild Space
+Kalevala,Outer Rim Territories
+Kalinda,Mid Rim
+Kaller,Outer Rim Territories
+Kattada,Colonies
+Kamino,Beyond the Rishi Maze
+Karfeddion,Mid Rim
+Kashyyyk,Mid Rim
+Keitum,Mid Rim
+Kelada,Colonies
+Kerkoidia ,Expansion Region
+Kessel,Outer Rim Territories
+Ketaris,Outer Rim Territories
+Khuteb,Outer Rim Territories
+Kiffex,Inner Rim
+Kiffu,Inner Rim
+Kintan,Outer Rim Territories
+Kirtarkin,Outer Rim Territories
+Klytus V,Wild Space
+Kooriva,Inner Rim
+Korrus,Outer Rim Territories
+Kril'dor,Mid Rim
+Kriselist,Mid Rim
+Krownest ,Outer Rim Territories
+Ktil,Inner Rim
+Kuat,Core Worlds
+Kubindi,Outer Rim Territories
+Kwenn,Mid Rim
+Lahn,Outer Rim Territories
+Lahsbane,Mid Rim
+Lannik,Mid Rim
+Lantillies,Mid Rim
+Lasan,Outer Rim Territories
+Leritor,Mid Rim
+Li-Toran,Inner Rim
+Lira San,Wild Space
+Lola Sayu,Outer Rim Territories
+Lorahns,Mid Rim
+Loronar,Colonies
+Lorrd,Outer Rim Territories
+Lorta,Mid Rim
+Lothal,Outer Rim Territories
+Lotho Minor,Outer Rim Territories
+Lwhekk,Unknown Regions
+Makem Te,Outer Rim Territories
+Malachor,Outer Rim Territories
+Malastare,Mid Rim
+Manda,Mid Rim
+Mandalore,Outer Rim Territories
+Manpha,Outer Rim Territories
+Maridun,Outer Rim Territories
+Mataou,Outer Rim Territories
+Metalorn,Mid Rim
+Miser,Outer Rim Territories
+Moltok,Outer Rim Territories
+Mon Cala,Outer Rim Territories
+Mon Gazza,Mid Rim
+Monastery,Mid Rim
+Moonus Mandel,Mid Rim
+Moraband,Outer Rim Territories
+Mrisst,Colonies
+Mugaar,Mid Rim
+Murkhana,Outer Rim Territories
+Mustafar,Outer Rim Territories
+Muunilinst,Outer Rim Territories
+Mygeeto,Outer Rim Territories
+Mytus,Outer Rim Territories
+Naator,Mid Rim
+Naboo,Mid Rim
+Nag Ubdur,Outer Rim Territories
+NaJedha,Mid Rim
+Nakadia,Mid Rim
+Nal Hutta,Outer Rim Territories
+Namadii,Mid Rim
+Nanth'ri,Mid Rim
+Nar Kanji,Outer Rim Territories
+Narq,Colonies
+Neimoidia,Colonies
+NewCov,Mid Rim
+Nexus Ortai,Mid Rim
+Nez Peron,Outer Rim Territories
+Nirauan,Wild Space
+Nixor,Mid Rim
+Nothoiin,Outer Rim Territories
+Nouane,Inner Rim
+Null,Mid Rim
+N'Zoth ,Core Worlds
+Obroa-skai,Inner Rim
+Ogem,Western Reaches
+Omereth,Outer Rim Territories
+Onderon,Inner Rim
+Oon,Outer Rim Territories
+Oosalon,Outer Rim Territories
+Ord Biniir,Outer Rim Territories
+Ord Cantrell,Outer Rim Territories
+Ord Mantell,Mid Rim
+Ord Pardorn,Mid Rim
+Ord Trasi,Outer Rim Territories
+Orinda,Mid Rim
+Orn Kios,Outer Rim Territories
+Orto Plutonia,Outer Rim Territories
+Palanhi,Colonies
+Pamarthe,Outer Rim Territories
+Paqwepor,Mid Rim
+Pasher,Inner Rim
+Phaeda,Outer Rim Territories
+Phatrong,Outer Rim Territories
+Pheryon,Inner Rim
+Phindar,Outer Rim Territories
+Phorsa Gedd,Mid Rim
+Phu,Colonies
+Plexis,Core Worlds
+Polis Massa,Outer Rim Territories
+Polmanar,Outer Rim Territories
+Ponemah Terminal,Outer Rim Territories
+Prefsbelt,Outer Rim Territories
+Promencius Four,Outer Rim Territories
+Pujool,Outer Rim Territories
+Quarzite,Inner Rim
+Quell,Outer Rim Territories
+Quellor,Colonies
+Quermia,Outer Rim Territories
+Radnor,Mid Rim
+Rago,Mid Rim
+Randon,Mid Rim
+Rakata Prime,Unknown Regions
+Rattatak,Outer Rim Territories
+Raxus,Outer Rim Territories
+Raydonia,Outer Rim Territories
+The Redoubt,Wild Space
+The Red Twins,Mid Rim
+Riflor,Mid Rim
+Rintonne,Mid Rim
+Riosa,Inner Rim
+Rishi,Outer Rim Territories
+Roche,Mid Rim
+Rodia,Outer Rim Territories
+Ruusan,Mid Rim
+Ryloth,Outer Rim Territories
+Sakiya,Outer Rim Territories
+Saleucami,Outer Rim Territories
+Salient I,Outer Rim Territories
+Salient II,Outer Rim Territories
+Samovar,Western Reaches
+Sarka,Mid Rim
+Scarif,Outer Rim Territories
+Scipio,Outer Rim Territories
+Seelos,Outer Rim Territories
+Serenno,Outer Rim Territories
+Sernpidal,Outer Rim Territories
+Sesid,Outer Rim Territories
+Seswenna,Outer Rim Territories
+Sha Qarot,Deep Core
+Shantipole,Mid Rim
+Shaum Hii,Outer Rim Territories
+Shili,Expansion Region
+Shu-Torun,Mid Rim
+Skako,Core Worlds
+Sleheyron,Hutt Space
+Sneeve,Mid Rim
+Son-tuul,Outer Rim Territories
+Sriluur,Outer Rim Territories
+Starkiller Base,Unknown Regions
+Stygeon Prime,Outer Rim Territories
+Sullust,Outer Rim Territories
+Taanab,Inner Rim
+Takodana,Western Reaches
+Tangenine,Core Worlds
+Tangrene,Outer Rim Territories
+Taris,Outer Rim Territories
+Tatooine,Outer Rim Territories
+Tepasi,Core Worlds
+Teth,Wild Space
+Teyr,Colonies
+Thabeska,Outer Rim Territories
+Thalassia,Outer Rim Territories
+Thisspias,Expansion Region
+Thune,Wild Space
+Thustra,Expansion Region
+Thyferra,Inner Rim
+Tinnel IV,Core Worlds
+Togoria,Mid Rim
+Tokmia,Outer Rim Territories
+Toydaria,Mid Rim
+Trandosha,Mid Rim
+Trian,Outer Rim Territories
+Troiken,Outer Rim Territories
+Tsevuka,Outer Rim Territories
+Tund,Outer Rim Territories
+Tython,Deep Core

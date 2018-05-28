@@ -1,0 +1,62 @@
+name,region,population,gravity,orbital_period,i.terrain,diameter,surface_water
+Alderaan,Core Worlds,2000000000,1 standard,364,'grasslands, mountains',12500,40
+Yavin IV,Unknown,1000,1 standard,4818,'jungle, rainforests',10200,8
+Hoth,Outer Rim Territories,unknown,1.1 standard,549,'tundra, ice caves, mountain ranges',7200,100
+Dagobah,Outer Rim Territories,unknown,N/A,341,'swamp, jungles',8900,8
+Bespin,Outer Rim Territories,6000000,'1.5 (surface), 1 standard (Cloud City)',5110,gas giant,118000,0
+Endor,Outer Rim Territories,30000000,0.85 standard,402,'forests, mountains, lakes',4900,8
+Naboo,Mid Rim,4500000000,1 standard,312,'grassy hills, swamps, forests, mountains',12120,12
+Coruscant,Core Worlds,1000000000000,1 standard,368,'cityscape, mountains',12240,unknown
+Kamino,Beyond the Rishi Maze,1000000000,1 standard,463,ocean,19720,100
+Geonosis,Outer Rim Territories,100000000000,0.9 standard,256,'rock, desert, mountain, barren',11370,5
+Utapau,Unknown,95000000,1 standard,351,'scrublands, savanna, canyons, sinkholes',12900,0.9
+Mustafar,Outer Rim Territories,20000,1 standard,412,'volcanoes, lava rivers, mountains, caves',4200,0
+Kashyyyk,Mid Rim,45000000,1 standard,381,'jungle, forests, lakes, rivers',12765,60
+Polis Massa,Outer Rim Territories,1000000,0.56 standard,590,airless asteroid,0,0
+Mygeeto,Outer Rim Territories,19000000,1 standard,167,'glaciers, mountains, ice canyons',10088,unknown
+Felucia,Outer Rim Territories,8500000,0.75 standard,231,fungus forests,9100,unknown
+Cato Neimoidia,Colonies,10000000,1 standard,278,'mountains, fields, forests, rock arches',0,unknown
+Saleucami,Outer Rim Territories,1400000000,unknown,392,'caves, desert, mountains, volcanoes',14920,unknown
+Stewjon,Unknown,unknown,1 standard,unknown,grass,0,unknown
+Eriadu,Outer Rim Territories,22000000000,1 standard,360,cityscape,13490,unknown
+Corellia,Core Worlds,3000000000,1 standard,329,'plains, urban, hills, forests',11000,70
+Rodia,Outer Rim Territories,1300000000,1 standard,305,'jungles, oceans, urban, swamps',7549,60
+Nal Hutta,Outer Rim Territories,7000000000,1 standard,413,'urban, oceans, swamps, bogs',12150,unknown
+Dantooine,Outer Rim Territories,1000,1 standard,378,'oceans, savannas, mountains, grasslands',9830,unknown
+Bestine IV,Unknown,62000000,unknown,680,'rocky islands, oceans',6400,98
+Ord Mantell,Mid Rim,4000000000,1 standard,334,'plains, seas, mesas',14050,10
+unknown,Unknown,unknown,unknown,0,unknown,0,unknown
+Trandosha,Mid Rim,42000000,0.62 standard,371,'mountains, seas, grasslands, deserts',0,unknown
+Socorro,Unknown,300000000,1 standard,326,'deserts, mountains',0,unknown
+Mon Cala,Outer Rim Territories,27000000000,1,398,'oceans, reefs, islands',11030,100
+Chandrila,Core Worlds,1200000000,1,368,'plains, forests',13500,40
+Sullust,Outer Rim Territories,18500000000,1,263,'mountains, volcanoes, rocky deserts',12780,5
+Toydaria,Mid Rim,11000000,1,184,'swamps, lakes',7900,unknown
+Malastare,Mid Rim,2000000000,1.56,201,'swamps, deserts, jungles, mountains',18880,unknown
+Dathomir,Outer Rim Territories,5200,0.9,491,'forests, deserts, savannas',10480,unknown
+Ryloth,Outer Rim Territories,1500000000,1,305,'mountains, valleys, deserts, tundra',10600,5
+Aleen Minor,Unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Vulpter,Unknown,421000000,1,391,'urban, barren',14900,unknown
+Troiken,Outer Rim Territories,unknown,unknown,unknown,'desert, tundra, rainforests, mountains',unknown,unknown
+Tund,Outer Rim Territories,0,unknown,1770,'barren, ash',12190,unknown
+Haruun Kal,Mid Rim,705300,0.98,383,'toxic cloudsea, plateaus, volcanoes',10120,unknown
+Cerea,Mid Rim,450000000,1,386,verdant,unknown,20
+Glee Anselm,Mid Rim,500000000,1,206,'lakes, islands, swamps, seas',15600,80
+Iridonia,Mid Rim,unknown,unknown,413,'rocky canyons, acid pools',unknown,unknown
+Tholoth,Unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Iktotch,Unknown,unknown,1,481,rocky,unknown,unknown
+Quermia,Outer Rim Territories,unknown,unknown,unknown,unknown,unknown,unknown
+Dorin,Expansion Region,unknown,1,409,unknown,13400,unknown
+Champala,Inner Rim,3500000000,1,318,'oceans, rainforests, plateaus',unknown,unknown
+Mirial,Unknown,unknown,unknown,unknown,deserts,unknown,unknown
+Serenno,Outer Rim Territories,unknown,unknown,unknown,'rainforests, rivers, mountains',unknown,unknown
+Concord Dawn,Unknown,unknown,unknown,unknown,'jungles, forests, deserts',unknown,unknown
+Zolan,Unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Ojom,Unknown,500000000,unknown,unknown,'oceans, glaciers',unknown,100
+Skako,Core Worlds,500000000000,1,384,'urban, vines',unknown,unknown
+Muunilinst,Outer Rim Territories,5000000000,1,412,'plains, forests, hills, mountains',13800,25
+Shili,Expansion Region,unknown,1,unknown,'cities, savannahs, seas, plains',unknown,unknown
+Kalee,Wild Space,4000000000,1,378,'rainforests, cliffs, canyons, seas',13850,unknown
+Umbara,Unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Tatooine,Outer Rim Territories,200000,1 standard,304,desert,10465,1
+Jakku,Western Reaches,unknown,unknown,unknown,deserts,unknown,unknown
