@@ -1,4 +1,4 @@
-name,region,population,gravity,orbital_period,i.terrain,diameter,surface_water
+name,region,population,gravity,orbital_period,terrain,diameter,surface_water
 Alderaan,Core Worlds,2000000000,1 standard,364,'grasslands, mountains',12500,40
 Yavin IV,Unknown,1000,1 standard,4818,'jungle, rainforests',10200,8
 Hoth,Outer Rim Territories,unknown,1.1 standard,549,'tundra, ice caves, mountain ranges',7200,100
@@ -28,6 +28,8 @@ Ord Mantell,Mid Rim,4000000000,1 standard,334,'plains, seas, mesas',14050,10
 unknown,Unknown,unknown,unknown,0,unknown,0,unknown
 Trandosha,Mid Rim,42000000,0.62 standard,371,'mountains, seas, grasslands, deserts',0,unknown
 Socorro,Unknown,300000000,1 standard,326,'deserts, mountains',0,unknown
+Mon Cala,Outer Rim Territories,27000000000,1,398,'oceans, reefs, islands',11030,100
+Mon Cala,Outer Rim Territories,27000000000,1,398,'oceans, reefs, islands',11030,100
 Mon Cala,Outer Rim Territories,27000000000,1,398,'oceans, reefs, islands',11030,100
 Chandrila,Core Worlds,1200000000,1,368,'plains, forests',13500,40
 Sullust,Outer Rim Territories,18500000000,1,263,'mountains, volcanoes, rocky deserts',12780,5

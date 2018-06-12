@@ -3,7 +3,7 @@
 use the data from the seccond sw_planets.csv file to figure out a couple of things about the sw universe.
 
 try to figure out:
-* which planet has the most highest population 
+* which planet has the highest population 
 * which planet has the highest ratio of water
 * which planet has the highest and lowest population density (population/mainland area)
 * which region has the most grasslands?
