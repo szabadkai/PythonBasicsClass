@@ -3,7 +3,7 @@ from sw_planets_stats import SwDataSet
 import json
 
 @click.command()
-@click.option('--file', help='Csv file containing our astronomical data.', type=str, default=None)
+@click.option('--file', help='csv file containing our astronomical data.', type=str, default=None)
 @click.option('--highest', help='Specify which attribute you want the highest from', default=None)
 @click.option('--lowest', help='Specify which attribute you want the lowest from', default=None)
 @click.option('--as_json', help='Outputs json formated data', is_flag=True)

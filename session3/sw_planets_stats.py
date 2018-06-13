@@ -45,6 +45,10 @@ class Planet:
         self.diameter = int(diameter) if diameter != "unknown" else "NAN"
         self.surface_water = float(surface_water) if surface_water != "unknown" else "NAN"
 
+
+    def __iter__(self):
+        return iter([ (k, self.__getattribute__(k)) for k in Planet.allowed_keys])
+
     @property
     @try_or_NAN
     def surface(self):
@@ -54,9 +58,6 @@ class Planet:
     @try_or_NAN
     def population_density(self):
         return self.population / (100 - self.surface_water) * self.surface
-
-    def as_dict(self):
-        return {k:self.__getattribute__(k) for k in self.allowed_keys}
 
     @staticmethod
     def from_dict(d):

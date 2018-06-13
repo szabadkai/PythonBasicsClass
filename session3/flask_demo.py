@@ -19,7 +19,7 @@ def planets():
 @app.route('/highest/<attr>')
 def highest(attr):
     return json.dumps(
-         planetstats.highest(lambda x:x.__getattribute__(attr)).as_dict()
+         dict(planetstats.highest(lambda x:x.__getattribute__(attr)))
     )
 
 @app.route('/<planet>/<attr>')
@@ -28,15 +28,15 @@ def planet_stat_access(planet, attr):
 
 @app.route('/<planet>')
 def planet_stat(planet):
-    return json.dumps(planetstats[planet].as_dict())
+    return json.dumps(dict(planetstats[planet]))
 
 @app.route('/planet/search', methods=['POST'])
 def search():
     params = request.json
-    return json.dumps([planet.as_dict() for planet in planetstats if filter_planet(planet, params)])
+    return json.dumps([dict(planet) for planet in planetstats if filter_planet(planet, params)])
 
 def filter_planet(planet, params):
-    d = planet.as_dict()
+    d = dict(planet)
     for k in params:
         if k in d and params[k] == d[k]:
             continue
