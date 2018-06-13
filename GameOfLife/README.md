@@ -26,5 +26,7 @@ or check out a couple of cool videos on youtube:
 * Use a 20 * 20 matrix as table. 
 * (optional) your solution should take an argument describing the dimensions of the table.
 * (optional) try implement a color version of the game.
+* (optional) make your solution available as a cli app (click)
+* (optional) try to create a web api exposing your game of life (flask), in a maner the api returns a generation of your table every call of the api. Make reseting or seeding the game available though the api.
 
 You will most likely need Table and Cell classes, but try to think about what else you could abstract away?
