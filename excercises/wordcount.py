@@ -51,13 +51,31 @@ import sys
 # This basic command line argument parsing code is provided and
 # calls the print_words() and print_top() functions which you must define.
 
+def get_stats(filename):
+    stats = {}
+    with open(filename, 'r') as f:
+        for word in f.read().split():
+            w = word.strip('!?().,`"-:;\'').lower()
+            if stats.get(w):
+                stats[w] += 1
+            else:
+                stats[w] = 1
+    return stats
+
+
 def print_words(filename):
-    # your code here
-    pass
+    stats = get_stats(filename)
+    for k,v in stats.items():
+        print(k,v)
+
 
 def print_top(filename):
-    # your code here
-    pass
+    stats = get_stats(filename)
+    for i,k in enumerate(sorted(stats, key=lambda x: stats[x], reverse=True)):
+        if i < 20:
+            print(k,stats[k])
+        else:
+            break
 
 
 def main():
